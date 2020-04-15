@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449756787341",
+    "firebase_url": "https://kokshetau-chat-f783a.firebaseio.com",
+    "project_id": "kokshetau-chat-f783a",
+    "storage_bucket": "kokshetau-chat-f783a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449756787341:android:b95763860a0736050fe8c4",
+        "android_client_info": {
+          "package_name": "com.akmola.android.kokshetauchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449756787341-156am8jn85ac7qlr5qo3uhrs46sa7epf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akmola.android.kokshetauchat",
+            "certificate_hash": "4878142b4da39a3a0ca866a542c42ad35e508f63"
+          }
+        },
+        {
+          "client_id": "449756787341-5n4lntk2voi2p7ls33ar5id89gtlas98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5pCmtRnWMWeTDRxtRqRPnXc3uSS2mW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449756787341-5n4lntk2voi2p7ls33ar5id89gtlas98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
