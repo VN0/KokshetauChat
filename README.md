@@ -2,7 +2,7 @@
 <img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/Logo.png" width="300px">
 </p>
 
-# Астана Чат
+# Кокшетау Чат
 
 Кокшетау Чат - это умное приложение для обмена сообщениями, которое поможет вам сказать и сделать больше.
 Выразите себя лучше с предсказанием Emoji, Умным Ответом.
@@ -11,7 +11,7 @@
 
 # Скачать
 
-Вы можете попробовать Астана Чат прямо сейчас на вашем телефоне ([click to download the APK](https://github.com/zholdassk/KokshetauChat/blob/master/DocData/kokshetauchat-1.0.apk?raw=true))
+Вы можете попробовать Кокшетау Чат прямо сейчас на вашем телефоне ([click to download the APK](https://github.com/zholdassk/KokshetauChat/blob/master/DocData/kokshetauchat-1.0.apk?raw=true))
 
 # Характеристики
 1. Войти, выйти и зарегистрироваться
